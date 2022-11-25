@@ -14,12 +14,12 @@ table {
 td {
   border: 1px solid;
   border color: black:
-    background: darkblue;
+    background: rgb(55, 127, 168);
   border: 1 px solid #000000;
   border-color: black;
 }
 td {
-  background: darkblue;
+  background: rgb(55, 127, 168);
   border: 1px solid #000000;
   border-color: black;
   text-align: center;
