@@ -15,12 +15,6 @@ td {
   border: 1px solid;
   border color: black:
     background: rgb(55, 127, 168);
-  border: 1 px solid #000000;
+  border: 1 px solid;
   border-color: black;
-}
-td {
-  background: rgb(55, 127, 168);
-  border: 1px solid #000000;
-  border-color: black;
-  text-align: center;
 }
