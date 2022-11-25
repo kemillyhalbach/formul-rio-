@@ -9,6 +9,9 @@ form label{
 td {
   border: 1px solid;
   border color: black:
+    background: white;
+  border: 1 px solid #000000;
+  border-color: black;
 }
 td {
   background: white;
